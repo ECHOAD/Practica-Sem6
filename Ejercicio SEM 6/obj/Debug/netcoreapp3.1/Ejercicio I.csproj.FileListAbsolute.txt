@@ -1,0 +1,13 @@
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\bin\Debug\netcoreapp3.1\Ejercicio I.exe
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\bin\Debug\netcoreapp3.1\Ejercicio I.deps.json
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\bin\Debug\netcoreapp3.1\Ejercicio I.runtimeconfig.json
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\bin\Debug\netcoreapp3.1\Ejercicio I.runtimeconfig.dev.json
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\bin\Debug\netcoreapp3.1\Ejercicio I.dll
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\bin\Debug\netcoreapp3.1\Ejercicio I.pdb
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\obj\Debug\netcoreapp3.1\Ejercicio I.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\obj\Debug\netcoreapp3.1\Ejercicio I.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\obj\Debug\netcoreapp3.1\Ejercicio I.AssemblyInfo.cs
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\obj\Debug\netcoreapp3.1\Ejercicio I.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\obj\Debug\netcoreapp3.1\Ejercicio I.dll
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\obj\Debug\netcoreapp3.1\Ejercicio I.pdb
+C:\Users\adria\source\repos\Ejercicio SEM 6\Ejercicio SEM 6\obj\Debug\netcoreapp3.1\Ejercicio I.genruntimeconfig.cache
